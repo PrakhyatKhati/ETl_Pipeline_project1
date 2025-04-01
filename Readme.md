@@ -23,3 +23,8 @@ https://docs.snowflake.com/en/user-guide/sample-data-tpch
 ```
 
 Before this you need to have you snowflake personl account created.
+
+
+## First this First
+
+Install dbt-core and dbt-snowflake using pip in the pythin virula env.
